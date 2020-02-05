@@ -1,0 +1,21 @@
+#nav-logo {
+	max-width: 225px;
+}
+
+h1, h2, h3 {
+	font-family: 'Sulphur Point', sans-serif;
+	font-weight: 700;
+	letter-spacing: 0.1em;
+}
+
+h4, h5, h6, label {
+	font-family: 'Sulphur Point', sans-serif;
+	font-weight: 400;
+	letter-spacing: 0.1em;
+}
+
+a, p, button {
+	font-family: 'Sulphur Point', sans-serif;
+	font-weight: 200 !important;
+	letter-spacing: 0.1em;
+}
