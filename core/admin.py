@@ -6,7 +6,7 @@ from .models import User
 from django.contrib.auth.models import Group
 
 class MyAdminSite(admin.AdminSite):
-    site_header = "Matter Admin"
+    site_header = "Your Site Name Admin"
 
 class CustomUserAdmin(UserAdmin):
     fieldsets = (
